@@ -9,7 +9,7 @@ body{
 }
 
 .workmark{
-  padding-top: 30px;
+  padding-top: 5px;
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
   font-size: 50px;
@@ -46,6 +46,6 @@ li{
   font-size: 15px;
 }
 
-.ircsteps{
+.content{
   padding-top: 20px;
 }
