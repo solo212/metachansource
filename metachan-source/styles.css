@@ -55,6 +55,6 @@ footer{
     bottom: 0;
 }
 
-.links:hover{
+a:hover{
   text-decoration: overline;
 }
